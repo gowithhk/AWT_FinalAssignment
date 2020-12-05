@@ -1,0 +1,137 @@
+body{
+	background-color: black;
+}
+
+div.b1 {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+
+div.b1 p {
+  margin: 2%;
+  font-weight: bold;
+  color: #000000;
+  font-size: 50px;
+  font-family:"Jokerman";
+}
+
+#bdiv
+{
+	padding-bottom: 2.5%;
+	text-align: center;
+}
+
+#div11
+{
+	color:#2c3e50;
+	padding-top: 0px;
+	padding-bottom: 10px;
+}
+
+
+
+#h11
+{
+  font-family:Georgia, serif;
+	font-size: 450%;
+	text-align: center;
+  
+  margin-top:5px;
+  color:#161625;
+
+}
+
+#introclick{
+	
+	font-size: 150%;
+	text-align:center;
+	text-transform: upper;
+	color:#ffffff;
+	padding-bottom:10px;
+	color:red;
+}
+
+#h22
+{
+	font-family:Georgia, serif;
+	font-size: 350%;
+	text-align: center;
+	text-transform: upper;
+	color:#ffffff;
+	padding-bottom:10px;
+}
+
+#h23
+{
+	
+	font-size: 350%;
+	text-align:center;
+	text-transform: upper;
+	color:#ffffff;
+	padding-bottom:10px;
+	
+}
+
+#mov
+{
+	
+	margin-right: 15px;
+	  background-color: #000066;
+	  text-transform: capitalize;
+}
+
+#pers
+{
+	
+	margin-right: 15px;
+  background-color: #000066;
+}
+
+#car
+{
+	
+	margin-right: 15px;
+	background-color: #000066;
+}
+
+#utibut
+{
+	padding-left: 94%;
+	padding-top: 1%;
+}
+
+
+#calbmi
+{
+	text-align: center;
+  color:#ecf0f1;
+}
+
+
+#contact
+{
+	font-size: 25px;
+}
+
+
+#smit_logo
+{
+	padding-top:20px;
+}
+
+#mov{
+	padding-left:6%;
+}
+
+#famp2{
+	padding-left:6%;
+}
+
+#car{
+	padding-left:10%;
+}
+#disc{
+	float:right;
+}
